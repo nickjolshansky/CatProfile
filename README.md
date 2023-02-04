@@ -1,4 +1,4 @@
-cd into the folder and use npm start
+cd into the folder and use "npm i" then "npm start"
 
 It should look like this when loaded correctly
 
